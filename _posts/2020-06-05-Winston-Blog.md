@@ -1,7 +1,15 @@
+  
 ---
 title: "Winston Blog"
 date: 2020-06-05
----
+theme: minima
+author: "Winston Huang"
+email: "whuang@ebnet.org"
+description:
+  "Hi, my name is Winston and I am a graduating senior at EBHS. In high school, I have done clubs in school like Science Honor Society and Science Olympiad and outside of school, I have volunteered at the Red Cross and at Sunrise Senior Home."
 
-Hi, my name is Winston and I am a graduating senior at EBHS. In high school, I have done clubs in school like Science
-Honor Society and Science Olympiadand outside of school, I have volunteered at the Red Cross and at Sunrise Senior Home.
+# social links
+twitter_username: "winstonhuang" # DO NOT include the @ character, or else the build will fail!
+github_username:  "Winnirn" # DO NOT include the @ character, or else the build will fail!
+
+---
