@@ -1,3 +1,4 @@
+---
 title: "Winston Blog"
 date: 2020-06-05
 theme: minima
@@ -11,3 +12,4 @@ twitter_username: "winstonhuang" # DO NOT include the @ character, or else the b
 github_username:  "Winnirn" # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
